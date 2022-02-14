@@ -52,6 +52,11 @@
     justify-content: center;
 }
 
+.disclaimer > h1,
+.disclaimer > span {
+    text-align: center;
+}
+
 .content {
     display: flex;
     flex-wrap: wrap;
